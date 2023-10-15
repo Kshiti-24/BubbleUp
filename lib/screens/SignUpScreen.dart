@@ -21,7 +21,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
-                Center(child: Image.asset("assets/img/logo3.png")),
+                Center(child: Image.asset("assets/img/logo.png")),
                 Align(
                     alignment: Alignment.centerLeft,
                     child: Padding(
