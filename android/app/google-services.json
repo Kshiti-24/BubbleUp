@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491111496077",
+    "project_id": "bubbleup-9e6be",
+    "storage_bucket": "bubbleup-9e6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491111496077:android:8e5b157b5134b0c20fe5c4",
+        "android_client_info": {
+          "package_name": "com.example.bubbleup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09Wvfr7BMUt2O7Wpy-lzB9MzCEUd4dL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
